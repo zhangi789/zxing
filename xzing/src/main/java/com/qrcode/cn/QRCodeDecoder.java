@@ -21,7 +21,7 @@ import java.util.Map;
 
 
 /**
- * 作者:王浩 邮件:bingoogolapple@gmail.com
+ * 作者:张海洋
  * 创建时间:16/4/8 下午11:22
  * 描述:解析二维码图片。一维条码、二维码各种类型简介 https://blog.csdn.net/xdg_blog/article/details/52932707
  */

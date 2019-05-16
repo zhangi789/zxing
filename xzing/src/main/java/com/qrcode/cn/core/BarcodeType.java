@@ -1,10 +1,11 @@
 package com.qrcode.cn.core;
 
 /**
- * 作者:王浩
+ * 作者:张海洋
  * 创建时间:2018/6/20
  * 描述:识别的格式
  */
+
 public enum BarcodeType {
     /**
      * 所有格式

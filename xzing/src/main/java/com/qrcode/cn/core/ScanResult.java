@@ -3,7 +3,7 @@ package com.qrcode.cn.core;
 import android.graphics.PointF;
 
 /**
- * 作者:王浩
+ * 作者:张海洋
  * 创建时间:2018/6/15
  * 描述:
  */
