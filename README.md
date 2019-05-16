@@ -1,4 +1,8 @@
-Zxing 自定义二维码扫描   生成二维码 
+Zxing QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式
+qrcode
+qrcode-scanner
+qrcode-generator
+qrcode-android
 ============
 
 ## 目录
