@@ -56,7 +56,7 @@ Zxing 自定义二维码扫描   生成二维码
 
 ```groovy
 dependencies {
-    implementation 'com.github.zhangi789:zxing:3.1.2'
+    implementation 'com.github.zhangi789:zxing:3.1.3'
 }
 ```
 
